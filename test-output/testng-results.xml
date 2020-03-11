@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-11T10:13:33 IST" name="Suite" finished-at="2020-03-11T10:14:05 IST" duration-ms="31817">
+    <groups>
+    </groups>
+    <test started-at="2020-03-11T10:13:33 IST" name="Test" finished-at="2020-03-11T10:14:05 IST" duration-ms="31817">
+      <class name="Testcases.Bikes">
+        <test-method signature="FailTestCaseTry()[pri:0, instance:Testcases.Bikes@8dbfffb]" started-at="2020-03-11T10:13:57 IST" name="FailTestCaseTry" finished-at="2020-03-11T10:13:57 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailTestCaseTry -->
+        <test-method signature="Honda()[pri:0, instance:Testcases.Bikes@8dbfffb]" started-at="2020-03-11T10:13:57 IST" name="Honda" finished-at="2020-03-11T10:13:57 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Honda -->
+        <test-method signature="Pulsar()[pri:0, instance:Testcases.Bikes@8dbfffb]" started-at="2020-03-11T10:13:57 IST" name="Pulsar" finished-at="2020-03-11T10:13:57 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pulsar -->
+        <test-method signature="Yamaha()[pri:0, instance:Testcases.Bikes@8dbfffb]" started-at="2020-03-11T10:13:57 IST" name="Yamaha" finished-at="2020-03-11T10:13:57 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Yamaha -->
+      </class> <!-- Testcases.Bikes -->
+      <class name="Testcases.Name">
+        <test-method signature="Animal()[pri:0, instance:Testcases.Name@f316aeb]" started-at="2020-03-11T10:13:57 IST" name="Animal" finished-at="2020-03-11T10:13:57 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Animal -->
+        <test-method signature="Place()[pri:0, instance:Testcases.Name@f316aeb]" started-at="2020-03-11T10:13:57 IST" name="Place" finished-at="2020-03-11T10:13:57 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Place -->
+        <test-method signature="PrintName()[pri:0, instance:Testcases.Name@f316aeb]" started-at="2020-03-11T10:13:57 IST" name="PrintName" finished-at="2020-03-11T10:13:57 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintName -->
+        <test-method signature="Thing()[pri:0, instance:Testcases.Name@f316aeb]" started-at="2020-03-11T10:13:57 IST" name="Thing" finished-at="2020-03-11T10:13:57 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Thing -->
+      </class> <!-- Testcases.Name -->
+      <class name="Testcases.HomePageTest">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:Testcases.HomePageTest@41d426b5]" started-at="2020-03-11T10:13:33 IST" name="Initialize" finished-at="2020-03-11T10:13:57 IST" duration-ms="23761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="verifyHeaderText()[pri:0, instance:Testcases.HomePageTest@41d426b5]" started-at="2020-03-11T10:13:57 IST" name="verifyHeaderText" finished-at="2020-03-11T10:13:58 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderText -->
+        <test-method signature="verifyHomePageURL()[pri:0, instance:Testcases.HomePageTest@41d426b5]" started-at="2020-03-11T10:13:58 IST" name="verifyHomePageURL" finished-at="2020-03-11T10:13:58 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageURL -->
+        <test-method signature="verifyModulesName()[pri:0, instance:Testcases.HomePageTest@41d426b5]" started-at="2020-03-11T10:13:58 IST" name="verifyModulesName" finished-at="2020-03-11T10:14:02 IST" duration-ms="3917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyModulesName -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Testcases.HomePageTest@41d426b5]" started-at="2020-03-11T10:14:02 IST" name="Teardown" finished-at="2020-03-11T10:14:05 IST" duration-ms="3092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

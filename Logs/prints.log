@@ -1,0 +1,61 @@
+11:02:32.781 [main] ERROR Testcases.HomePageTest - I am error
+11:12:38.826 [main] INFO  Testcases.HomePageTest - Initializing the driver
+11:12:38.864 [main] DEBUG Testcases.HomePageTest - I am debug
+11:12:38.864 [main] FATAL Testcases.HomePageTest - I am Fatal
+11:12:40.067 [main] INFO  Testcases.HomePageTest - Getting current url
+11:12:40.068 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+11:12:40.070 [main] ERROR Testcases.HomePageTest - I am error
+16:36:50.769 [main] INFO  Testcases.HomePageTest - Initializing the driver
+16:36:50.803 [main] DEBUG Testcases.HomePageTest - I am debug
+16:36:50.803 [main] FATAL Testcases.HomePageTest - I am Fatal
+16:36:51.203 [main] INFO  Testcases.HomePageTest - Getting current url
+16:36:51.203 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+16:36:51.204 [main] ERROR Testcases.HomePageTest - I am error
+15:57:03.791 [main] INFO  Testcases.HomePageTest - Initializing the driver
+15:57:04.344 [main] DEBUG Testcases.HomePageTest - I am debug
+15:57:04.344 [main] FATAL Testcases.HomePageTest - I am Fatal
+15:57:04.787 [main] INFO  Testcases.HomePageTest - Getting current url
+15:57:04.788 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+15:57:04.789 [main] ERROR Testcases.HomePageTest - I am error
+15:59:28.028 [main] INFO  Testcases.HomePageTest - Initializing the driver
+15:59:28.066 [main] DEBUG Testcases.HomePageTest - I am debug
+15:59:28.067 [main] FATAL Testcases.HomePageTest - I am Fatal
+15:59:33.060 [main] INFO  Testcases.HomePageTest - Getting current url
+15:59:33.060 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+15:59:33.063 [main] ERROR Testcases.HomePageTest - I am error
+16:06:59.706 [main] INFO  Testcases.HomePageTest - Initializing the driver
+16:06:59.833 [main] DEBUG Testcases.HomePageTest - I am debug
+16:06:59.833 [main] FATAL Testcases.HomePageTest - I am Fatal
+16:07:04.094 [main] INFO  Testcases.HomePageTest - Getting current url
+16:07:04.094 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+16:07:04.096 [main] ERROR Testcases.HomePageTest - I am error
+16:10:59.969 [main] INFO  Testcases.HomePageTest - Initializing the driver
+16:11:00.038 [main] DEBUG Testcases.HomePageTest - I am debug
+16:11:00.038 [main] FATAL Testcases.HomePageTest - I am Fatal
+16:11:04.468 [main] INFO  Testcases.HomePageTest - Getting current url
+16:11:04.468 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+16:11:04.471 [main] ERROR Testcases.HomePageTest - I am error
+16:13:22.581 [main] INFO  Testcases.HomePageTest - Initializing the driver
+16:13:22.618 [main] DEBUG Testcases.HomePageTest - I am debug
+16:13:22.618 [main] FATAL Testcases.HomePageTest - I am Fatal
+16:13:26.644 [main] INFO  Testcases.HomePageTest - Getting current url
+16:13:26.644 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+16:13:26.645 [main] ERROR Testcases.HomePageTest - I am error
+16:56:37.816 [main] INFO  Testcases.HomePageTest - Initializing the driver
+16:56:37.914 [main] DEBUG Testcases.HomePageTest - I am debug
+16:56:37.914 [main] FATAL Testcases.HomePageTest - I am Fatal
+16:56:38.249 [main] INFO  Testcases.HomePageTest - Getting current url
+16:56:38.250 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+16:56:38.252 [main] ERROR Testcases.HomePageTest - I am error
+17:01:20.146 [main] INFO  Testcases.HomePageTest - Initializing the driver
+17:01:20.191 [main] DEBUG Testcases.HomePageTest - I am debug
+17:01:20.192 [main] FATAL Testcases.HomePageTest - I am Fatal
+17:01:20.414 [main] INFO  Testcases.HomePageTest - Getting current url
+17:01:20.415 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+17:01:20.416 [main] ERROR Testcases.HomePageTest - I am error
+10:13:57.410 [main] INFO  Testcases.HomePageTest - Initializing the driver
+10:13:57.910 [main] DEBUG Testcases.HomePageTest - I am debug
+10:13:57.910 [main] FATAL Testcases.HomePageTest - I am Fatal
+10:13:58.457 [main] INFO  Testcases.HomePageTest - Getting current url
+10:13:58.457 [main] INFO  Testcases.HomePageTest - comparing expected and actual result
+10:13:58.464 [main] ERROR Testcases.HomePageTest - I am error
